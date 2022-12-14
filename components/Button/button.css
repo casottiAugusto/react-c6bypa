@@ -1,0 +1,16 @@
+.button {
+  width: 2em;
+  height: 2em;
+  font-size: 1.3em;
+  background-color: Gainsboro;
+  margin: 1.3em;
+  border-radius: 3em;
+}
+.number {
+  margin: 0 auto;
+  padding-left: 0.8em;
+  padding-top: 0.5em;
+}
+.button:hover {
+  cursor: pointer;
+}
